@@ -1,8 +1,10 @@
 - 👋 Hi, I’m AKSHAYA AJAYAKUMAR
-- 👀 I’m interested in WEBDEVELOPMENT AND DATA SCIENCE
+- I am a graduate in ELECTRONICS AND COMMUNICATION ENGINEERING 
+- 👀 I’m interested  and exploring the field of WEBDEVELOPMENT AND DATA SCIENCE
 - 🌱 I’m currently learning WEBDEVELOPMENT AND DATA SCIENCE
 - 💞️ I’m looking to collaborate on works/ internships related to FRONT-END and DATA ANALYSIS
-- 📫 You can reach me on www.linkedin.com/in/akshaya-ajayakumar-532920286 
+- 📫 You can ping me on www.linkedin.com/in/akshaya-ajayakumar-532920286 / akshaya.ajay156@gmail.com
+  
 
 
 <!---
